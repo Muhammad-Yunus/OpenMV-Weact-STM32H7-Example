@@ -14,6 +14,6 @@ This firmware is based on [OpenMV](https://github.com/openmv/openmv) version 4.4
 All credit for building and adapting the firmware for the WeAct boards goes to **WeAct Studio**. This repository is provided for reference and convenience.
 
 - 🔗 Official WeAct GitHub: [https://github.com/WeActStudio](https://github.com/WeActStudio)
-- 📦 Original firmware source: *(add link here if known)*
+- 📦 Original firmware source: [https://github.com/WeActStudio/MiniSTM32H7xx](https://github.com/WeActStudio/MiniSTM32H7xx)
 
 Please support the original authors and contributors by visiting their repositories and projects.
